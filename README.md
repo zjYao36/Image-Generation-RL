@@ -19,6 +19,9 @@
 
 ## 2. AR Based RL
 
+- **BLIP3o-NEXT**  
+  *Year:* 2025  [📄 Paper]() | [💻 Code](https://github.com/JiuhaiChen/BLIP3o) | [🌐 Project](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)
+
 - **AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2508.06924) | [💻 Code](https://github.com/Kwai-Klear/AR-GRPO) | [🌐 Project]()
 
@@ -59,6 +62,12 @@
 ---
 
 ## 2. Video RL
+
+- **InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2505.17574) | [💻 Code](https://github.com/MAPLE-AIGC/InfLVG) | [🌐 Project]()
+
+- **Improving Video Generation with Human Feedback**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2501.13918) | [💻 Code](https://github.com/KwaiVGI/VideoAlign) | [🌐 Project](https://gongyeliu.github.io/videoalign/)
 
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
