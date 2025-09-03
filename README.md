@@ -86,7 +86,7 @@
 - **Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model**  
   *Year:* 2025  [📄 Paper](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2) | [💻 Code](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2) | [🌐 Project](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2)
 
-- **todo**  
+- **OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.21066) | [💻 Code]() | [🌐 Project](https://one-reward.github.io/)
 
 - **todo**  
