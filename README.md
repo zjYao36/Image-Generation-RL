@@ -57,6 +57,12 @@
 - **TempFlow-GRPO: When Timing Matters for GRPO in Flow Models**  
   *Year:* 2025  [📄 Paper](https://www.arxiv.org/abs/2508.04324) | [💻 Code](https://github.com/Shredded-Pork/TempFlow-GRPO) | [🌐 Project](https://tempflowgrpo.github.io/)
 
+- **Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2508.20751) | [💻 Code](https://github.com/CodeGoat24/Pref-GRPO) | [🌐 Project](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)
+  
+- **Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.18032) | [💻 Code]() | [🌐 Project]()
+  
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
 
@@ -79,6 +85,9 @@
 
 - **Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model**  
   *Year:* 2025  [📄 Paper](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2) | [💻 Code](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2) | [🌐 Project](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2)
+
+- **todo**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.21066) | [💻 Code]() | [🌐 Project](https://one-reward.github.io/)
 
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
