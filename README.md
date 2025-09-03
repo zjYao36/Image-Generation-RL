@@ -7,6 +7,7 @@
 2. [AR Based RL](#2-ar-based-rl)
 3. [Diffusion Based RL](#3-diffusion-based-rl)
 4. [Video RL](#4-video-rl)
+5. [Image Edit RL](#5-image-edit-rl)
 
 ---
 
@@ -61,7 +62,7 @@
 
 ---
 
-## 2. Video RL
+## 4. Video RL
 
 - **InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2505.17574) | [💻 Code](https://github.com/MAPLE-AIGC/InfLVG) | [🌐 Project]()
@@ -72,7 +73,17 @@
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
 
+  ---
 
+## 5. Image Edit RL
+
+- **Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model**  
+  *Year:* 2025  [📄 Paper](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2) | [💻 Code](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2) | [🌐 Project](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2)
+
+- **todo**  
+  *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
+
+  ---
 
 
 ---
