@@ -89,9 +89,12 @@
 - **OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.21066) | [💻 Code]() | [🌐 Project](https://one-reward.github.io/)
 
+- **MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.11433) | [💻 Code]() | [🌐 Project]()
+
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
-
+  
   ---
 
 
