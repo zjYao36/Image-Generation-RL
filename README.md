@@ -63,6 +63,9 @@
 - **Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.18032) | [💻 Code]() | [🌐 Project]()
   
+- **Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2509.06942) | [💻 Code](https://github.com/Tencent-Hunyuan/SRPO) | [🌐 Project](https://tencent.github.io/srpo-project-page/)
+  
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
 
@@ -97,5 +100,29 @@
   
   ---
 
+## 6. Reward Model
 
+- **RewardDance: Reward Scaling in Visual Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2509.08826) | [💻 Code]() | [🌐 Project]()
+
+- **todo**  
+  *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
+  
+  ---
+  
+## 7. Image Generation COT
+
+- **Interleaving Reasoning for Better Text-to-Image Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2509.06945) | [💻 Code](https://github.com/Osilly/Interleaving-Reasoning-Generation) | [🌐 Project]()
+
+- **FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2509.09680) | [💻 Code](https://github.com/rongyaofang/prism-bench) | [🌐 Project](https://flux-reason-6m.github.io/)
+
+- **todo**  
+  *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
+  
+  
+  ---
+
+  
 ---
