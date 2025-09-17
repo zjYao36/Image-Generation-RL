@@ -8,6 +8,8 @@
 3. [Diffusion Based RL](#3-diffusion-based-rl)
 4. [Video RL](#4-video-rl)
 5. [Image Edit RL](#5-image-edit-rl)
+6. [Reward Model](#4-reward-model)
+7. [Image Edit RL](#5-image-edit-rL)
 
 ---
 
