@@ -68,6 +68,9 @@
 - **Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2509.06942) | [💻 Code](https://github.com/Tencent-Hunyuan/SRPO) | [🌐 Project](https://tencent.github.io/srpo-project-page/)
   
+- **DiffusionNFT: Online Diffusion Reinforcement with Forward Process**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2509.16117) | [💻 Code](https://github.com/NVlabs/DiffusionNFT) | [🌐 Project](https://research.nvidia.com/labs/dir/DiffusionNFT/)
+
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
 
