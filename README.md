@@ -97,6 +97,9 @@
 - **MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.11433) | [💻 Code]() | [🌐 Project]()
 
+- **UniWorld-V2: Reinforce Image Editing with Diffusion Negative-Aware Finetuning and MLLM Implicit Feedback**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2510.16888) | [💻 Code](https://github.com/PKU-YuanGroup/UniWorld-V2) | [🌐 Project]()
+
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
   
