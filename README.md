@@ -106,8 +106,11 @@
 - **EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2509.23909) | [💻 Code](https://github.com/VectorSpaceLab/EditScore) | [🌐 Project](https://vectorspacelab.github.io/EditScore/)
 
+- **The Promise of RL for Autoregressive Image Editing**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.01119) | [💻 Code]() | [🌐 Project]()
+
 - **todo**  
-  *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
+  *Year:* 2025  [📄 Paper]() | [💻 Code](https://github.com/mair-lab/EARL) | [🌐 Project]()
   
   ---
 
