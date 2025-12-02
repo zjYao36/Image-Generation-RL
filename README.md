@@ -84,6 +84,10 @@
 - **Improving Video Generation with Human Feedback**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2501.13918) | [💻 Code](https://github.com/KwaiVGI/VideoAlign) | [🌐 Project](https://gongyeliu.github.io/videoalign/)
 
+
+- **Video Generation Models Are Good Latent Reward Models**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2511.21541) | [💻 Code]() | [🌐 Project]()
+
 - **todo**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]() | [🌐 Project]()
 
