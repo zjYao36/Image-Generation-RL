@@ -47,6 +47,9 @@
 
 ## 3. Diffusion Based RL
 
+- **Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2502.01051) | [💻 Code](https://github.com/Kwai-Kolors/LPO/tree/main) | [🌐 Project]()
+
 - **Flow-GRPO: Training Flow Matching Models via Online RL**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2505.05470) | [💻 Code](https://github.com/yifan123/flow_grpo) | [🌐 Project](https://gongyeliu.github.io/Flow-GRPO/)
 
